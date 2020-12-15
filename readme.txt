@@ -11,7 +11,8 @@
 
 > apt update --pkg upgrade  
 apt install python git  
-https://github.com/Safidy01/Script
+cd https://github.com/Safidy01
+cd Script
 pkg install python  
 pkg install nano  
 pkg install pip  

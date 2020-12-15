@@ -11,8 +11,7 @@
 
 > apt update --pkg upgrade  
 apt install python git  
-cd /sdcard/Download    
-cd scriptByNekena  
+https://github.com/Safidy01/Script
 pkg install python  
 pkg install nano  
 pkg install pip  

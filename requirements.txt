@@ -1,0 +1,8 @@
+telethon
+async_generator
+colorama
+bs4
+requests
+asyncio
+payes
+faker
